@@ -15,11 +15,7 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Langages les plus utilisés :</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gael111&show_icons=true&locale=fr&layout=compact&langs_count=2" alt="Gael" />
-</p>
-
+<h3 align="left">Stats GitHub :</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gael111&show_icons=true&locale=fr" alt="Gael" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gael111&" alt="Gael" /></p>
