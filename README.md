@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, je suis Gael</h1>
-<h3 align="center">Développeur en France</h3>
+<h3 align="center">Développeur Junior en France</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gael111" alt="Gael" /></a> </p>
 
@@ -15,7 +15,10 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gael111&show_icons=true&locale=fr&layout=compact" alt="Gael" /></p>
+<h3 align="left">Langages les plus utilisés :</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gael111&show_icons=true&locale=fr&layout=compact&langs_count=2" alt="Gael" />
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gael111&show_icons=true&locale=fr" alt="Gael" /></p>
 
