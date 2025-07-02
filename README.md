@@ -18,6 +18,5 @@
 <h3 align="left">Stats GitHub :</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gael111&show_icons=true&locale=fr" alt="Gael" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gael111&" alt="Gael" /></p>
 
 [![Profil GitHub](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/gael111)
