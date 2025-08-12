@@ -6,6 +6,7 @@
 - 🌱 J'apprends actuellement **Node.js**
 
 - 🤝 Je cherche de l'aide pour **Un Domaine Pour Mon PortoFolio**
+- 🤝 Contactez moi via Discord : gaelontv_ ( J'accepte pas les demandes mais les mps si)
 
 - 👨‍💻 Tous mes projets sont disponibles sur [https://github.com/gael111](https://github.com/gael111)
 
