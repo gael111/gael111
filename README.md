@@ -35,9 +35,8 @@
 
 <h3 align="left">📊 Activité GitHub :</h3>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gael111&locale=fr&theme=default" alt="GitHub Streak de Gael"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gael111&theme=default" alt="Résumé GitHub de Gael"/>
 </p>
-
 
 ---
 
@@ -48,4 +47,3 @@
 
 ---
 
-[![Profil GitHub](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/gael111)
