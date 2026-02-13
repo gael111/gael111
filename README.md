@@ -33,10 +33,11 @@
 
 ---
 
-<h3 align="left">📊 Stats GitHub :</h3>
+<h3 align="left">📊 Activité GitHub :</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gael111&show_icons=true&locale=fr" alt="Stats GitHub de Gael"/>
+  <img src="https://streak-stats.demolab.com?user=gael111&locale=fr&theme=default" alt="GitHub Streak de Gael"/>
 </p>
+
 
 ---
 
