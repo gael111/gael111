@@ -4,11 +4,11 @@
 ---
 
 - 🌱 J’apprends actuellement **Node.js** et **Java**  
-- 🚀 Tous mes projets sont visibles sur mon [GitHub](https://github.com/gael111)  
+- 🚀 Tous mes projets sont visibles sur mon [GitHub](https://github.com/gael111?tab=repositories)  
 - 📬 Contactez-moi sur **Discord : gaelontv_**  
   *(je n’accepte pas les demandes d’ami, mais mes MP sont ouverts)*  
-- 🌍 Mon site web actuel : [gaelontv.fpr.net](https://sudsy-efraasia-5dd.notion.site/Domaine-suspendu-3058be60b0c78025bed5e446313f309e)  
-- 📢 Je suis en train de chercher des personnes pour m’aider à obtenir un domaine **.fr** (aller voir le site 🪓:x )
+- 🌍 Mon site web actuel : [gaelontv.zyrahost.fr](https://gaelontv.zyrahost.fr)  
+- 📢 Je fait actuellement un hébregement: [ZyraHost](https://zyrahost.fr)
 
 ---
 
