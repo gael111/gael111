@@ -39,6 +39,11 @@
 </p>
 
 ---
+<h3 align="left">📊 Activité Discord:</h3>
+<p align="center">
+  <img src="[![Discord Presence](https://lanyard.cnrad.dev/api/834507726805532713](https://discord.com/users/834507726805532713)" alt="Discord de Gael"/>
+</p>
+---
 
 <h3 align="left">👀 Compteur de visiteurs :</h3>
 <p align="center">
